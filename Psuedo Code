@@ -1,0 +1,8 @@
+Open Finder
+Select folder
+Parse folder for .jpg
+sort into landscape and portrait 
+pull the first two landscape and put into im1 and im2
+run image system with those two images
+save output to new folder within file path
+run steps 5-7 until all images used
